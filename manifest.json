@@ -1,0 +1,13 @@
+{
+  "name": "Image Resizer",
+  "version": "1.0",
+  "description": "An extension to resize images.",
+  "permissions": ["activeTab"],
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  },
+    "icons" : {
+        "48" : "/image/icon.png"
+    }
+}

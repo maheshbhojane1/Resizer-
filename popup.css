@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: blueviolet;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  input[type="text"] {
+    text-align: center;
+  }
+  
+  input[type="text"],
+  input[type="number"],
+  button {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+  }
+
+  button {
+    margin-top: 20px;
+    cursor: pointer;
+  }
+  
